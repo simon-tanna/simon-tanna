@@ -11,7 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=simon-tanna&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-
+<div align="center">
+  <img src="./src/images/simon-banner.png"/>
+</div>
 
 <!--
 **simon-tanna/simon-tanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
