@@ -48,7 +48,7 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-tanna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://my-spotify-gcab022109-coderacademy.vercel.app/api/spotify)](https://open.spotify.com/user/tannabater)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tannabater&cover_image=true&theme=default&bar_color=2d68f0)](https://spotify-github-profile.vercel.app/api/view?uid=tannabater&redirect=true)
 
 <!--
 **simon-tanna/simon-tanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
