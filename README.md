@@ -15,6 +15,36 @@
   <img src="./src/images/simon-banner.png"/>
 </div>
 
+---
+
+### :man_technologist: About Me:
+
+I'm a junior full-stack developer currently completing a Diploma in Information Technology.
+
+- I'm developing my skills in programming with a focus on JavaScript, React and Ruby on Rails.
+
+- In my spare time, I create music
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+  <img src="./src/images/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="./src/images/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="./src/images/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="./src/images/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="./src/images/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+  <img src="./src/images/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="./src/images/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="./src/images/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="./src/images/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="./src/images/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="./src/images/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+
+
 <!--
 **simon-tanna/simon-tanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
