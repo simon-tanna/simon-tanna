@@ -15,17 +15,19 @@
 
 ---
 
-### :man_technologist: About Me:
+### :man_technologist: About Me :
 
-I'm a junior full-stack developer currently completing a Diploma in Information Technology.
+I'm a junior full-stack developer currently completing a Diploma in Information Technology at CoderAcademy.
 
 - I'm developing my skills in programming with a focus on JavaScript, React and Ruby on Rails.
+
+- Currently I am working on expanding my portfolio to demonstrate proficiency in both front-end and back-end development environments.
 
 - In my spare time, I create music
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="./src/images/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,6 +49,8 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simon-tanna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-tanna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :musical_score: Currently Listening to :
 
 [![Spotify](https://my-playing.vercel.app/api/spotify)](https://open.spotify.com/user/tannabater)
 
