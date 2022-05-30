@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./src/images/profile_pic_cropped.png" width="100"/>
+  <img src="./src/images/simon-banner.png"/>
   <div id="badges">
     <a href="http://https://www.linkedin.com/in/simon-tanna-117b75224/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,8 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=simon-tanna&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-<div align="center">
-  <img src="./src/images/simon-banner.png"/>
 </div>
 
 ---
