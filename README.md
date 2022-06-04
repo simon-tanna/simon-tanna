@@ -42,6 +42,17 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
   <img src="./src/images/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="./src/images/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="./src/images/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="./src/images/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="./src/images/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="./src/images/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="./src/images/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="./src/images/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="./src/images/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="./src/images/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="./src/images/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="./src/images/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="./src/images/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="./src/images/rspec-original.svg" title="rspec" alt="rspec" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
@@ -53,6 +64,7 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
 ### :musical_score: Currently Listening to :
 
 [![Spotify](https://my-playing.vercel.app/api/spotify)](https://open.spotify.com/user/tannabater)
+
 
 <!--
 **simon-tanna/simon-tanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
