@@ -27,7 +27,9 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+
+## :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="./src/images/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -55,9 +57,7 @@ I'm a junior full-stack developer currently completing a Diploma in Information 
   <img src="./src/images/rspec-original.svg" title="rspec" alt="rspec" width="50" height="50"/>&nbsp;
 </div>
 
-### :fire: My Stats
-
-<div align="center">
+## :fire: My Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simon-tanna&theme=blue-green&background=000000)](https://git.io/streak-stats)
 
