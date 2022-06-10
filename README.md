@@ -15,7 +15,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I'm a junior full-stack developer currently completing a Diploma in Information Technology at CoderAcademy.
 
