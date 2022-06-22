@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="./src/images/simon-banner.png"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/simon-tanna-117b75224/" target="_blank">
+    <a href="https://www.linkedin.com/in/simon-tanna-dev/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/simonptan/" target="_blank">
