@@ -20,9 +20,9 @@
 
 ## :man_technologist: About Me :
 
-I'm a junior full-stack developer currently completing a Diploma in Information Technology at CoderAcademy.
+I'm a junior full-stack developer currently working on web3 projects.
 
-- I'm developing my skills in programming with a focus on JavaScript, React and Ruby on Rails.
+- I'm developing my skills in programming with a focus on Typescript, React, Nodejs and Solidity.
 
 - Currently I am working on expanding my portfolio to demonstrate proficiency in both front-end and back-end development environments.
 
