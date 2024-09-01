@@ -19,7 +19,7 @@
 
 ## :man_technologist: About Me :
 
-I'm a junior full-stack developer currently working on web3 projects.
+I'm a full-stack engineer currently working on web3 projects.
 
 - I'm developing my skills in programming with a focus on Typescript, React, Nodejs and Solidity.
 
