@@ -24,20 +24,6 @@ At [Labrys](https://labrys.io) I contribute to production applications across De
 - 🔭 Building on-chain agent tooling with the Model Context Protocol and Turnkey signing
 - 🌱 Currently working with TanStack Start on Cloudflare Workers
 - 📫 Reach me at simon.tanna@proton.me
-
-## AI and agent work
- 
-**On-chain agent platform** — A TanStack Start application backed by a Hono service, Drizzle ORM, and Clerk auth, deployed to Cloudflare Workers. A dedicated agent API builds an MCP server over Hono and signs transactions through Turnkey.
-`TypeScript · MCP · Hono · Turnkey · Drizzle · viem · Cloudflare Workers`
- 
-**Claude Code tooling** — Agents, skills, hooks, and plugin manifests that extend Claude Code for repository workflows, packaged as a reusable configuration and a distributable plugin.
-`Claude Code · Agents · Skills · Plugins`
- 
-**Realtime voice starter** — A LiveKit starter pairing a Python backend with a TypeScript frontend for realtime voice and AI.
-`Python · TypeScript · LiveKit`
- 
-**Custom ESLint plugin** — A standalone plugin that enforces smart-contract lint rules, with its own Vitest suite and CI.
-`TypeScript · ESLint plugin API · Vitest`
  
 ## Skills
  
@@ -54,14 +40,18 @@ At [Labrys](https://labrys.io) I contribute to production applications across De
 **Infra:** Turborepo, pnpm, Docker, Terraform, GitHub Actions, AWS, Cloudflare Workers, Vercel, Sentry
  
 **Web3:** Hardhat, Foundry, OpenZeppelin, viem, ethers.js, thirdweb, Uniswap SDKs, LayerZero, Solana
+ 
   
 ---
 
 ## :fire: My Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simon-tanna&theme=blue-green&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-tanna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
+</div>
 
 <!--
 **simon-tanna/simon-tanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
