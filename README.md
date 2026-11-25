@@ -17,12 +17,8 @@
 
 ---
 
-Full-stack engineer in Brisbane, Australia. I work primarily in TypeScript and Next.js, and I build AI and agent tooling: MCP servers and Claude Code agents and skills.
- 
-At [Labrys](https://labrys.io) I contribute to production applications across DeFi and agent platforms. My range covers React and React Native frontends, tRPC/Express/Koa/Hono backends, MongoDB and Drizzle data layers, and the infrastructure that ships them: Turborepo, Docker, Terraform, GitHub Actions, AWS, and Cloudflare Workers.
- 
-- 🔭 Building on-chain agent tooling with the Model Context Protocol and Turnkey signing
-- 🌱 Currently working with TanStack Start on Cloudflare Workers
+Full-stack engineer in Brisbane, Australia.
+
 - 📫 Reach me at simon.tanna@proton.me
  
 ## Skills
